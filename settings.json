@@ -1,0 +1,19 @@
+{
+	"token":"NDM4MTA4MzIyOTc4MjAxNjAw.Db_ztQ.IBBbsPFDAeoo3OTkPOXN8kP2Avc",
+	"prefix":"y!",
+	"status":"Oi!! Eu sou a Yoko! :3",
+	"banlog":"437135114120462349",
+	"welcome":"436690602000777227",
+	"servidor":"436675353235423232",
+	"mute_role":"438095382749380609",
+	"automsg_channel":"432677432277991436",
+	"banimg":"https://i.imgur.com/bK1qI4h.gif",
+	"bimg":"https://i.pinimg.com/originals/ea/05/47/ea05473784351d74be90b5db5f276335.png",
+	"kickimg":"https://thumbs.gfycat.com/PracticalSimplisticAbalone-max-1mb.gif",
+	"welcomeimg":"https://i.imgur.com/Rj67moi.gif",
+	"command_delete": true,
+	"welcome_msgs": true,
+	"enable_automsg": true,
+	"mute_time":15,
+	"automsg_interval":30
+}
